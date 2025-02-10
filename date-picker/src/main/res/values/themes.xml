@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="NumberPickerCustomText">
+        <item name="android:textSize">20sp</item> // add if you want to change size
+    </style>
+</resources>
